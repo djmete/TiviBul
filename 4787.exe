@@ -37,6 +37,21 @@
       "K": "",
       "L": "",
       "M": "Mozilla/5.0"
+    },
+    {
+      "A": 1003,
+      "B": "FTV",
+      "C": "1",
+      "D": "",
+      "E": "https://ftv.az/assets/img/logo.png",
+      "F": "https://stream.ftv.az/live/ftv.m3u8",
+      "G": "defaultplayer",
+      "H": "direct",
+      "I": "",
+      "J": "",
+      "K": "",
+      "L": "",
+      "M": "Mozilla/5.0"
     }
     
   ]
