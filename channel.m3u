@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/djmete/TiviAra-Software/master/file_0000000099f072468125640c5ec4dabe.png" group-title="Azərbaycan",KönülTv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/djmete/TiviAra-Software/master/ktvmusic.png" group-title="Azərbaycan",KonulTv Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://ftv.az/assets/img/logo.png" group-title="Azərbaycan",FTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stream.ftv.az/live/ftv.m3u8
