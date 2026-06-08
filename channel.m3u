@@ -12,11 +12,14 @@ https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 https://stream.ftv.az/live/ftv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/500px-TRT_1_logo_%282021-%29.svg.png" group-title="Türkiye",TRT 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/djmete/KivuTv/refs/heads/master/trt1.png" group-title="Türkiye",TRT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://trt.daioncdn.net/trt-1/master.m3u8?app=webCancelOK
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://ftv.az/assets/img/loggo.png" group-title="Azərbaycan",Sultan Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/djmete/KivuTv/refs/heads/master/sultantv.png" group-title="Azərbaycan",Sultan Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://github.com/elnurpubg2025-cmyk/sultan/raw/refs/heads/main/start.mp4
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/djmete/KivuTv/refs/heads/master/kanald.png" group-title="Türkiye",Kanal D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
